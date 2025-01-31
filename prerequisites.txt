@@ -1,0 +1,2 @@
+The script requires several external libraries that are commonly used for machine learning and data manipulation. You can install these libraries using pip:
+pip install numpy torch scikit-learn
